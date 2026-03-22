@@ -1,0 +1,9 @@
+{
+	"name": "hrushidf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "53031bae-a9e7-4873-ac92-ddb6acabb7dd",
+		"tenantId": "904a42e8-0849-405e-8752-bfa14f01e1b0"
+	}
+}
