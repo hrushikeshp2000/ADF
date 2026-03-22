@@ -1,0 +1,9 @@
+{
+	"name": "incremetalload",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "31b564bf-5019-42e6-9454-d3b2f3e698d5",
+		"tenantId": "904a42e8-0849-405e-8752-bfa14f01e1b0"
+	}
+}
